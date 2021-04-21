@@ -20,13 +20,13 @@ Partner data validation for Pennsylvania, 2018. Data Partners: VEST.
   - Online: [Open Elections Github Link](https://github.com/openelections/openelections-data-pa)
   - AWS: `openelections-data-pa-master`
   - Accessed: 04/02/21
-  - Note:
+  - Note: I downloaded the entire notebook and filtered down to just the 2018 results.
 
 - File: U.S. Census Bureau's 2020 Redistricting Data Program Phase 2 release
   - Online: [PA Page](https://www.census.gov/geo/partnerships/pvs/partnership19v2/st42_pa.html)
   - AWS: `Census`
   - Accessed: 04/02/21
-  - Note: These can only be downloaded 5 at a time, I downloaded the data for all counties.
+  - Note: These can only be downloaded 5 at a time, I downloaded the data for all counties and put all the counties into one folder.
 
 - File: Allegheny County Shapefile
   - Online: [Allegheny County GIS](https://openac-alcogis.opendata.arcgis.com/datasets/faaf42d7eaa041cb9fa623ac7b42f475_0?geometry=-81.009%2C40.251%2C-79.031%2C40.617)
