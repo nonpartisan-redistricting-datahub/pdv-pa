@@ -20,7 +20,7 @@ Partner data validation for Pennsylvania, 2016. Data Partners: VEST.
   - Online: [Open Elections Github Link](https://github.com/openelections/openelections-data-pa)
   - AWS: `openelections-data-pa-master`
   - Accessed: 04/02/21
-  - Note: I downloaded the entire notebook and filtered down to just the 2018 results.
+  - Note: I downloaded the entire notebook and filtered down to just the 2016 results.
 
 - File: U.S. Census Bureau's 2020 Redistricting Data Program Phase 2 release
   - Online: [PA Page](https://www.census.gov/geo/partnerships/pvs/partnership19v2/st42_pa.html)
