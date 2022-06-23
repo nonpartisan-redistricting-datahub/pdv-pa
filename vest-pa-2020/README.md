@@ -17,9 +17,9 @@ Please reach out to info@redistrictingdatahub.org to reach our support team if y
   - Accessed: 04/19/2022
 
 - File: PA Precinct-Level Election Results
- - Online: [Open Elections Link](https://github.com/openelections/openelections-data-pa)
- - Accessed: 04/20/22
- - Note: We used the “20201103__pa__general__precinct.csv” file and not the “ERStat_2020_G(179507)_20210505.txt” file, which OpenElections appears to have gotten from the PA S0S. VEST’s documentation dives into the differences between the state-certified and the county-certified results. OpenElections has updated files to reflect some of the typos we found through PDV
+  - Online: [Open Elections Link](https://github.com/openelections/openelections-data-pa)
+  - Accessed: 04/20/22
+  - Note: We used the “20201103__pa__general__precinct.csv” file and not the 'ERStat_2020_G(179507)_20210505.txt' file. which OpenElections appears to have gotten from the PA S0S. VEST’s documentation dives into the differences between the state-certified and the county-certified results. OpenElections has updated files to reflect some of the typos we found through PDV
 
 - File: PA Official VTDs
   - Online: [PA Legislative Redistricting Commission](https://redistrictingdatahub.org/dataset/pennsylvania-block-pl-94-171-2020-official-prison-adjusted/)
