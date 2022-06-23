@@ -1,6 +1,6 @@
-# vest-pa-2018
+# vest-pa-2020
 
-Our final validation report for this dataset is available [here](https://redistrictingdatahub.org/dataset/vest-2018-pennsylvania-precinct-and-election-results/). 
+Our final validation report for this dataset is available [here](https://redistrictingdatahub.org/dataset/vest-2020-pennsylvania-precinct-and-election-results/). 
 
 We do not have the raw data sources available on this Github due to file constraints, but we are happy to share them if needed. 
 
